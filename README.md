@@ -1,2 +1,2 @@
 # React-Course
-course repository and homeword for reactJS
+course repository and homework for reactJS
